@@ -18,3 +18,9 @@ print(names)
 
 print(names[0], ", I would like to invite you to dinner")
 print(names[1], ", I would like to invite you to dinner")
+
+names.pop(0)
+print(names)
+
+names.pop(0)
+print(names)
