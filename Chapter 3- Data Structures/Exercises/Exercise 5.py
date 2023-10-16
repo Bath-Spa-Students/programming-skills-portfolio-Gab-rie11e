@@ -5,7 +5,7 @@ print(names[2] + " I would like to invite you at an Italian restaurant tonight f
 print("unfortunately It seems like", names[1], "will not be able make it.")
 
 del(names[1])
-names.insert(1 , "Raph")
+names.insert(1 , "Charles")
 print(names)
 
 print(names[0] + " I would like to invite you at an Italian restaurant tonight for a delighful dinner.")
