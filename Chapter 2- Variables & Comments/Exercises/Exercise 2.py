@@ -1,1 +1,2 @@
-print ('Vanitas once said, "One man\'s evil can be another\'s justice"')
+# Printing Quotes
+print ('Vanitas once said, "One man\'s justice can be another\'s evil"')
