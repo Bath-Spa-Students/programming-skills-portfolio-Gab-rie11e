@@ -1,3 +1,4 @@
+# Created a loop about making pizza
 prompt = "What toppings would you like? "
 prompt  += "\nType 'quit' when you're done choosing: "
 
