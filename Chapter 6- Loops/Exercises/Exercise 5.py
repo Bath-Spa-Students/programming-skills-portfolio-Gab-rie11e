@@ -1,5 +1,9 @@
+# Used exercise 4 list to refer to the new list but with an added element.
+
 sandwich_orders = ['cheese' , 'quarter pounder' , 'ham' , 'pastrami']
 finished_orders = []
+
+# Print where the restaurant runs out of pastrami.
 
 print("I'm sorry, unfortunately we're out of pastrami.")
 while 'pastrami' in sandwich_orders:
