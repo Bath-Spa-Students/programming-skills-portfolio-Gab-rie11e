@@ -1,8 +1,9 @@
+# Uisng dictionaries to making small personal info
 person = {
-    'first_name': 'Jean',
-    'last_name': 'Garcia',
+    'first_name': 'John',
+    'last_name': 'De La Cruz',
     'age': 18,
-    'city': 'Valenzuela',
+    'city': 'Quezon',
     }
 
 print(person['first_name'])
